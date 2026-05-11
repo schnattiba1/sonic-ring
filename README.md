@@ -7,29 +7,32 @@ It is used for practice and knowledge gained from Three.js journey.
 # Installation
 Want to run this project? Follow these steps:
 
+
 1. Clone this repository into your computer:
   ```git clone https://github.com/schnattiba1/sonic-ring.git```
+
+
 
 Before continuing, if you don't have node.js, vite, and three.js installed, please check out the link below:
 Node.js: https://nodejs.org/en
 Vite: https://www.npmjs.com/package/vite
 ThreeJS: https://www.npmjs.com/package/three?activeTab=versions
 
+
 2. Install node packages:
+   
    
    ```npm install```
    
+   
    You should see the "node_modules" directory.
 
-3. Run the entire project:
+
+
+4. Run the entire project:
    ```npx vite```
 
 # Video
-<video width="320" height="240" controls>
-  <source src="[movie.mp4](https://github.com/user-attachments/assets/4e515c03-4c0d-4006-8ba5-c516885021dc)" type="video/mp4">
-  <source src="[movie.ogg](https://github.com/user-attachments/assets/4e515c03-4c0d-4006-8ba5-c516885021dc)" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
 https://github.com/user-attachments/assets/4e515c03-4c0d-4006-8ba5-c516885021dc
 
 
