@@ -23,7 +23,9 @@ Want to run this project? Follow these steps:
    
 
 
-3. Install node packages:
+
+
+2. Install node packages:
    
    
    ```npm install```
@@ -35,8 +37,13 @@ Want to run this project? Follow these steps:
 
 
 
-4. Run the entire project:
+
+
+3. Run the entire project:
    ```npx vite```
+
+
+   
 
 # Video
 https://github.com/user-attachments/assets/4e515c03-4c0d-4006-8ba5-c516885021dc
