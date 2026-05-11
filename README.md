@@ -12,7 +12,7 @@ Want to run this project? Follow these steps:
   ```git clone https://github.com/schnattiba1/sonic-ring.git```
 
 
-    Before continuing, if you don't have Node.js, Vite, and Three.js installed, please check out the link below:
+    Before continuing if you don't have Node.js, Vite, and Three.js installed, please check out the link below:
 
       Node.js: https://nodejs.org/en
 
