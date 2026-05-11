@@ -15,17 +15,20 @@ Want to run this project? Follow these steps:
     Before continuing if you don't have Node.js, Vite, and Three.js installed, please check out the link below:
 
       Node.js: https://nodejs.org/en
+   
 
       Vite: https://www.npmjs.com/package/vite
+   
 
       Three.js: https://www.npmjs.com/package/three?activeTab=versions
+   
 
    
 
 
 
 
-2. Install node packages:
+3. Install node packages:
    
    
    ```npm install```
@@ -39,7 +42,7 @@ Want to run this project? Follow these steps:
 
 
 
-3. Run the entire project:
+4. Run the entire project:
    ```npx vite```
 
 
