@@ -12,14 +12,13 @@ Want to run this project? Follow these steps:
   ```git clone https://github.com/schnattiba1/sonic-ring.git```
 
 
+    Before continuing, if you don't have node.js, vite, and three.js installed, please check out the link below:
 
-Before continuing, if you don't have node.js, vite, and three.js installed, please check out the link below:
+      Node.js: https://nodejs.org/en
 
-Node.js: https://nodejs.org/en
+      Vite: https://www.npmjs.com/package/vite
 
-Vite: https://www.npmjs.com/package/vite
-
-ThreeJS: https://www.npmjs.com/package/three?activeTab=versions
+      ThreeJS: https://www.npmjs.com/package/three?activeTab=versions
 
 
 2. Install node packages:
