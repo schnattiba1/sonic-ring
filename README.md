@@ -6,8 +6,6 @@ https://github.com/user-attachments/assets/4e515c03-4c0d-4006-8ba5-c516885021dc
 I developed a grid of sonic rings that rotates each ring to the y-cooridnate automatically.
 An audio sound is also added to the scene. Whenever the user clicks anywhere on the page, the music "Green Hill Zone" starts playing. 
 When you zoom into the ring, the sound gets louder but when you zoom out, it gets quieter.
-It is used for practice and knowledge gained from Three.js journey.
-
 
 
 
