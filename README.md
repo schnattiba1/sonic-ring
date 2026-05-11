@@ -14,8 +14,11 @@ Want to run this project? Follow these steps:
 
 
 Before continuing, if you don't have node.js, vite, and three.js installed, please check out the link below:
+
 Node.js: https://nodejs.org/en
+
 Vite: https://www.npmjs.com/package/vite
+
 ThreeJS: https://www.npmjs.com/package/three?activeTab=versions
 
 
@@ -39,6 +42,8 @@ https://github.com/user-attachments/assets/4e515c03-4c0d-4006-8ba5-c516885021dc
 
 # Credits
 HDRI background - https://polyhaven.com/a/rolling_hills
+
+
 Green Hill Zone sound - https://www.youtube.com/watch?v=G-i8HYi1QH0&list=RDG-i8HYi1QH0&start_radio=1
 
 # Contributions
