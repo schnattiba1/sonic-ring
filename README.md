@@ -4,6 +4,14 @@ An audio sound is also added to the scene. Whenever the user clicks anywhere on 
 When you zoom into the ring, the sound gets louder but when you zoom out, it gets quieter.
 It is used for practice and knowledge gained from Three.js journey.
 
+
+# Video
+https://github.com/user-attachments/assets/4e515c03-4c0d-4006-8ba5-c516885021dc
+
+
+
+
+
 # Installation
 Want to run this project? Follow these steps:
 
@@ -46,10 +54,7 @@ Want to run this project? Follow these steps:
    ```npx vite```
 
 
-   
 
-# Video
-https://github.com/user-attachments/assets/4e515c03-4c0d-4006-8ba5-c516885021dc
 
 
 
